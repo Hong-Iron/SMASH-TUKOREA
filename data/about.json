@@ -1,0 +1,34 @@
+{
+ "region": "경기 시흥시 정왕동",
+ "nameEn": "Tech University of Korea",
+ "added": "2026-10-17",
+ "rank": 143,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "SNU-SIHEUNG",
+   "campus": "서울대학교 시흥캠퍼스",
+   "km": 3.1
+  },
+  {
+   "code": "YONSEI-INTL",
+   "campus": "연세대학교 국제캠퍼스",
+   "km": 7.0
+  },
+  {
+   "code": "SAU",
+   "campus": "신안산대학교",
+   "km": 7.3
+  },
+  {
+   "code": "SEOULARTS",
+   "campus": "서울예술대학교",
+   "km": 9.2
+  },
+  {
+   "code": "INU",
+   "campus": "인천대학교 송도캠퍼스",
+   "km": 9.7
+  }
+ ]
+}
